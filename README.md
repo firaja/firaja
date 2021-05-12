@@ -1,7 +1,7 @@
 
 <p align="center">
   
-<img src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b76117100348c0a77752a3745162a7720cd81636e7df3&rid=giphy.gif&ct=g">
+<img src="./hello.gif">
 <br><br>
 <a href="https://www.linkedin.com/in/david-bertoldi/"><img src="https://img.shields.io/badge/-david--bertoldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-bertoldi/"></a>
 
@@ -12,4 +12,10 @@
 <a href="https://medium.com/@david.bertoldi">
 <img src="https://img.shields.io/badge/-@david.bertoldi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@david.bertoldi">
 </a>
+
+<br>
+<br>
+<br>
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=firaja.firaja&title=views">
 </p>
